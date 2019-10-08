@@ -1,0 +1,306 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	background-color: pink;
+	width: 105%;
+	height: 660px;
+}
+.leftdiv
+{
+	background-color: white;
+	float: left;
+	width: 5%;
+	height: 660px;
+}
+.rightdiv
+{
+	background-color: white;
+	float: left;
+	width: 95%;
+	height: 2220px;
+	border: 2px;
+	box-shadow: 2px 2px 4px 3px #eff5f5;
+}
+.topdiv
+{
+	background-color: white;
+	float: left;
+	width: 100%;
+	height: 60px;
+	border: 1px;
+	box-shadow: 2px 4px 3px #eff5f5;
+}
+.bottomdiv
+{
+	background-color:white;
+	opacity: 1;
+	float: left;
+	width: 100%;
+	height: 600px;
+}
+#heading
+{
+	margin-left: 60px;
+	margin-top: 15px;
+	float: left;
+	width: 8%;
+	height: 30px;
+	font-family: Calibri ;
+	font-size: 22px;
+}
+#img
+{
+	width: 2%;
+	height: 30px;
+	margin-left: 950px;
+	margin-top: 20px;
+}
+.dot {
+  height: 30px;
+  width: 30px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 15px;
+  display: inline-block;
+  margin-bottom: 12px;
+  margin-left: -11px;
+}
+.text
+{
+	width: 70%;
+	height: 50px;
+	margin-left: 60px;
+	margin-top: 55px;
+	color: black;
+	font-size: 40px;
+	line-height:60px;
+	font-family: calibri;
+}
+.box
+{
+	width: 85%;
+	height: 250px;
+	margin-left: 60px;
+	background-color:rgb(238, 244, 255);/*#e6fff7;
+	opacity: 0.1;*/
+}
+.con
+{
+	color: #699696; 
+	font-size: 15px; 
+	margin-left: 40px;
+	margin-top: 20px;
+	font-family: calibria;
+	line-height: 25px;
+}
+.btn
+{
+	width: 14%;
+    height: 40px;
+    color: #4dc3ff;
+    font-size: 15px;
+    margin-top: 6px;
+    margin-left: 40px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 10px;
+    outline: none;
+    cursor: pointer;
+    border:1px solid #4dc3ff;
+}
+.cards
+{
+	width: 85%;
+	height: 1400px;
+	background-color: ;
+	margin-left: 55px;
+	margin-top: 70px;
+}
+.card
+{
+	float: left;
+	background-color: ;
+	width:30%;
+	height:320px;
+	margin-left: 27px;
+	margin-top: 25px;
+	border: 0.1px solid #eff5f5;
+	box-shadow: 0.1px 0.1px 0.1px 0.1px #eff5f5;
+}
+.upr
+{
+	width: 100%;
+	height: 120px;
+	background-color:;
+}
+.ul
+{
+	float: left;
+	width: 35%;
+	height: 120px;
+	background-color:;
+}
+.ur
+{
+	float: left;
+	width: 65%;
+	height: 120px;
+	background-color:;
+}
+.head1
+{
+	margin-left:15px;
+	margin-top:60px; 
+	line-height:25px; 
+	font-size:18px; 
+	font-weight:bold;
+}
+.head2
+{
+	margin-left:15px;
+	font-size:18px; 
+	color: black;
+}
+.lwr
+{
+	width: 100%;
+	height: 200px;
+	background-color:;
+}
+.l1
+{
+	position: absolute;
+	width: 20%;
+	margin-left: 30px;
+	line-height: 20px;
+	font-size: 16px;
+	margin-top: 25px;
+}
+.btn1
+{
+	width: 35%;
+    height: 35px;
+    color: #4dc3ff;
+    font-size: 15px;
+    margin-top: 120px;
+    margin-left: 40px;
+    background-color: white;
+    text-align: center;
+    border-radius: 2px;
+    line-height: 10px;
+    outline: none;
+    border:2px solid #4dc3ff;
+}
+#i1
+{
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.dot1 {
+  height:85px;
+  width: 85px;
+  background-color: #4dc3ff;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 15px;
+  display: inline-block;
+  margin-left:30px;
+  margin-top: 50px;
+}
+.footer
+{
+	margin-top:1940px;
+	background-color: ; 
+	width: 100%; 
+	height: 220px;
+}
+.icon
+{
+	width: 30%;
+	background-color: ;
+	margin-left: 450px;
+}
+#icon1
+{
+	font-size:32px;
+	color:gray;
+	margin-left:50px;
+}
+.pa
+{
+	color: gray;
+	font-size: 20px;
+	text-align: center;
+}
+.icon2
+{
+	margin-left: 350px;
+	margin-top:35px; 
+	font-size: 20px;
+	color: gray;
+}
+.a
+{
+	color: gray;
+	margin-left: 15px;
+}
+#menu{
+	width: 40%;
+	height: 50%;
+	margin-top: 14px;
+	margin-left: 24px;
+}
+
+#menu1{
+	width: 34%;
+	height: 38%;
+	margin-top: 14px;
+	margin-left: 24px;
+}
+#not{
+	margin-right: 200px;
+	margin-top: 17px;
+	float: right;
+	width: 25px;
+	height: 30px;
+}
+.cnot{
+	margin-right: -42px;
+	margin-top: 10px;
+	float: right;
+	width: 28px;
+	height: 28px;
+	background-color: #e60000;
+	border-radius: 50%;
+}
+#notp{
+	font-size: 15px;
+	font-family: calibri;
+	text-align: center;
+	margin-top: 6px;
+	color: white;
+}
+.c{
+	margin-right: -95px;
+	margin-top: 11px;
+	float: right;
+	width: 40px;
+	height: 40px;
+	background-color: #70db70;
+	border-radius: 55%;
+	display: inline-block;
+	
+}
+#cp{
+	font-size: 17px;
+	text-align: center;
+	font-family: calibri;
+	margin-top: 10px;
+	color: white;
+}
